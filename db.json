@@ -4,7 +4,7 @@
       "song": "Fortnight",
       "artist": "Taylor Swift Featuring Post Malone",
       "this_week": 1,
-      "last_week": null,
+      "last_week": 1,
       "peak_position": 1,
       "weeks_on_chart": 1
     },
@@ -12,7 +12,7 @@
       "song": "Down Bad",
       "artist": "Taylor Swift",
       "this_week": 2,
-      "last_week": null,
+      "last_week": 3,
       "peak_position": 2,
       "weeks_on_chart": 1
     },
@@ -20,7 +20,7 @@
       "song": "I Can Do It With A Broken Heart",
       "artist": "Taylor Swift",
       "this_week": 3,
-      "last_week": null,
+      "last_week": 8,
       "peak_position": 3,
       "weeks_on_chart": 1
     },
@@ -28,7 +28,7 @@
       "song": "The Tortured Poets Department",
       "artist": "Taylor Swift",
       "this_week": 4,
-      "last_week": null,
+      "last_week": 56,
       "peak_position": 4,
       "weeks_on_chart": 1
     },
@@ -36,7 +36,7 @@
       "song": "So Long, London",
       "artist": "Taylor Swift",
       "this_week": 5,
-      "last_week": null,
+      "last_week": 23,
       "peak_position": 5,
       "weeks_on_chart": 1
     },
@@ -44,7 +44,7 @@
       "song": "My Boy Only Breaks His Favorite Toys",
       "artist": "Taylor Swift",
       "this_week": 6,
-      "last_week": null,
+      "last_week": 7,
       "peak_position": 6,
       "weeks_on_chart": 1
     },
@@ -52,7 +52,7 @@
       "song": "But Daddy I Love Him",
       "artist": "Taylor Swift",
       "this_week": 7,
-      "last_week": null,
+      "last_week": 12,
       "peak_position": 7,
       "weeks_on_chart": 1
     },
@@ -60,7 +60,7 @@
       "song": "Florida!!!",
       "artist": "Taylor Swift Featuring Florence + The Machine",
       "this_week": 8,
-      "last_week": null,
+      "last_week": 90,
       "peak_position": 8,
       "weeks_on_chart": 1
     },
@@ -68,7 +68,7 @@
       "song": "Who's Afraid Of Little Old Me?",
       "artist": "Taylor Swift",
       "this_week": 9,
-      "last_week": null,
+      "last_week": 78,
       "peak_position": 9,
       "weeks_on_chart": 1
     },
@@ -76,7 +76,7 @@
       "song": "Guilty As Sin?",
       "artist": "Taylor Swift",
       "this_week": 10,
-      "last_week": null,
+      "last_week": 69,
       "peak_position": 10,
       "weeks_on_chart": 1
     },
@@ -84,7 +84,7 @@
       "song": "Fresh Out The Slammer",
       "artist": "Taylor Swift",
       "this_week": 11,
-      "last_week": null,
+      "last_week": 12,
       "peak_position": 11,
       "weeks_on_chart": 1
     },
@@ -92,7 +92,7 @@
       "song": "loml",
       "artist": "Taylor Swift",
       "this_week": 12,
-      "last_week": null,
+      "last_week": 45,
       "peak_position": 12,
       "weeks_on_chart": 1
     },
@@ -100,7 +100,7 @@
       "song": "The Alchemy",
       "artist": "Taylor Swift",
       "this_week": 13,
-      "last_week": null,
+      "last_week": 1,
       "peak_position": 13,
       "weeks_on_chart": 1
     },
@@ -108,7 +108,7 @@
       "song": "The Smallest Man Who Ever Lived",
       "artist": "Taylor Swift",
       "this_week": 14,
-      "last_week": null,
+      "last_week": 78,
       "peak_position": 14,
       "weeks_on_chart": 1
     },
@@ -148,7 +148,7 @@
       "song": "Push Ups",
       "artist": "Drake",
       "this_week": 19,
-      "last_week": null,
+      "last_week": 90,
       "peak_position": 19,
       "weeks_on_chart": 1
     }
